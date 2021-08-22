@@ -1,0 +1,5 @@
+# 6.- No te refieras a otres ni a vos misme por sus nombres personales {-}
+
+Dado que el propósito de usar un teléfono quemado es preservar tu anonimato y el anonimato de las personas que te rodean, cualquier práctica que en el uso de ese teléfono, te identifique a vos o a algune de tus contactos, ya sea mencionando nombres o cualquier tipo de información personal, socava dicho objetivo. Por eso, es recomendable que no uses el nombre legal de nadie cuando te comuniques a través de un teléfono quemado, y preferentemente tampoco uses ningún tipo de seudónimo. Si es imperativo usar identificadores, es conveniente que sean únicos, establecidos con anticipación y no se reutilicen.
+
+Considerá usar una frase a modo de contraseña para comunicarte, en lugar de usar nombres. Esto también permite la llamada y respuesta como autenticación. Por ejemplo, te da la certeza de que el contacto con el que deseás comunicarte es el contacto correcto si responde a su de forma correcta. Además, esta práctica de autenticación permite el uso de un código de coacción que se puede usar si la persona con la que estás tratando de coordinar necesita ayuda.

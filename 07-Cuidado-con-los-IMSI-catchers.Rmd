@@ -1,0 +1,19 @@
+# 7.- Cuidado con los IMSI catchers {-}
+
+Una razón por la que es deseable mantener tus frases de autenticación y
+coacción lo más crípticas posible es porque las agencias de aplicación de la
+ley de todo el mundo utilizan receptores de identidad de suscriptor móvil
+(IMSI catchers), también conocidos como "mantarrayas" o "simuladores de
+sitios móviles" para capturar mensajes de texto y llamadas telefónicas dentro
+de ciertos rangos de distancia. Estos dispositivos pretenden ser torres de
+telefonía móvil, interceptan y registran tus comunicaciones y luego las pasan
+a torres de telefonía móvil reales para que tus contactos previstos también las
+reciban. Debido a esto, probablemente no quieras usar tu quemado para enviar
+mensajes de texto como, "Ey, ¿estás en la protesta?" o "¿Trajiste las
+Molotov?".
+
+En circunstancias normales el uso de servicios mensajería cifrada como
+Signal puede eludir el uso de Stingrays con bastante eficacia, pero como los
+teléfonos quemados no suelen tener la capacidad de enviar mensajes cifrados
+(a menos que estés comprando teléfonos inteligentes quemados), hay que
+tener cuidado sobre lo que se dice.
